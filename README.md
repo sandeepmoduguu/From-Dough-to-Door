@@ -1,2 +1,1 @@
-# Route-Optimization
-An Integrated approach using Google Maps API, Machine Learning and Gurobi Optimization Modeling
+Engineered a Route Optimization model by leveraging Google Maps API, Machine Learning and Gurobi Optimization to reduce travel times and operational costs significantly. The project involved extensive data collection, cleaning, geocoding, and spatial analysis. Utilizing K-Means Clustering and Gurobi Solver, the model efficiently minimized travel time and operational costs, while adhering to rigorous logistical constraints. Implemented in an Agile framework, the project significantly improved delivery efficiency and service levels, contributing to a potential sales increase of 5%.
